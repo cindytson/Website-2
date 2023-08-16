@@ -55,8 +55,103 @@ h1{
   text-align: center;
 }
 
+
+
+.thirdSection {
+  background: #B2CAF6 ;
+  text-align: left;
+  padding: 5px;
+  
+}
+
+
+.card {
+  display: inline-block;
+  background-color: #FFFFFF;
+  border-radius: 15px;
+  height: 300px;
+  width: 300px;
+  margin: 90px;
+  margin-top: 50px;
+  padding: 10px;
+}
+
+
+.fourthSection {
+  background: #726DA8;
+  padding-top: 10px;
+  padding-left: 5px;
+  
+}
+.card2 {
+  display: inline-block;
+  background-color: #FFFFFF;
+  border-radius: 15px;
+  height: 100px;
+  width: 200px;
+  margin: 50px;
+  margin-top: 25px;
+  padding: 10px;
+  text-align: center;
+}
+p1{
+  font-size: 18px;
+}
+
+.pre-projects {
+  background-color:  rgba(172,172,172,1);
+  padding-left: 5px;
+  height: 25px;
+  font-size: 22px;
+}
+
+.projects {
+  background-color:  rgba(172,172,172,1);
+  height: 450px;
+  padding: 20px;
+  position: relative;
+  box-sizing:content-box;
+  align-items:center;
+ text-align: center;
+ justify-content:center;
+ align-content: center;
+  display:grid;
+  grid-template-columns: 50% 50%;
+  grid-row: 50% 50%;
+  grid-column-gap: 10px;
+  grid-row-gap: 15px;
+}
+.innerbox-content {
+align-content: center;
+text-align: center;
+padding: 70px 0;
+}
+.top-left {
+  width: 725px;
+  height: 200px;
+  background-color:#B2CAF6;
+}
+.top-right {
+  width: 725px;
+  height: 200px;
+  background-color:#B2CAF6;
+}
+
+.bottom-left {
+  width: 725px;
+  height: 200px;
+  background-color: #B2CAF6;
+}
+.bottom-right {
+  width: 725px;
+  height: 200px;
+  background-color:#B2CAF6;
+}
+
+
+
 footer {
-  background-color: black;
+  background: black;
   padding: 5px;
   color: white;
 }
